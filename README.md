@@ -9,4 +9,4 @@ The functions are listed below:
 
 3. Limit cycle dynamics of oscillatory systems. 
 
-4. Stochastic differential equation solver. 
+4. C++ Stochastic differential equation solver (nfkb_decoy_strip.cpp). 
