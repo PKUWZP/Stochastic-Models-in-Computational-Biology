@@ -1,5 +1,5 @@
 
-This respository includes python functions for my research works on stochastic models of cellular biology. 
+This respository includes python and C++ functions for my research works on stochastic models of cellular biology. 
 
 The functions are listed below:
 
